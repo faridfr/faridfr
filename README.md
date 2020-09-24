@@ -3,4 +3,3 @@
 
 - 💬 froozan[at]yahoo.com
 - [LinkedIn](https://www.linkedin.com/in/faridfroozan/)
-- [Instagram](https://instagram.com/faridfroozan)
