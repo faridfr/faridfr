@@ -4,6 +4,6 @@
 - 💬 froozan[at]yahoo.com
 - [LinkedIn](https://www.linkedin.com/in/faridfroozan/)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridfr&layout=compact&hide=html" alt="faridfr" /></p>
-<hr>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faridfr&show_icons=true" alt="faridfr" /></p>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridfr&layout=compact&hide=html" alt="faridfr" /></div>
+
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faridfr&show_icons=true" alt="faridfr" /></div>
