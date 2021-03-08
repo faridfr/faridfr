@@ -8,4 +8,4 @@
 
 <div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faridfr&layout=compact&hide=html&theme=dark" alt="faridfr" width="400" /></div>
 
-<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faridfr&layout=compact&show_icons=true&theme=dark" alt="faridfr"  width="410" /></div>
+<div>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faridfr&layout=compact&show_icons=true&theme=dark" alt="faridfr"  width="405" /></div>
